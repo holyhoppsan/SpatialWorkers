@@ -1,0 +1,11 @@
+{
+    "configurationVersion": "0.1",
+    "projectName": "demo",
+    "schemaDescriptor": "./schema/bin/schema.descriptor",
+    "clientWorkers": [
+        "Client worker path"
+    ],
+    "serverWorkers": [
+        "Server worker path"
+    ]
+}
